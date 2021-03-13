@@ -8,10 +8,16 @@ public class FirstMethod {
 
 		//here is the conflicting line
 		//I will cay remote masret
+		
 
 		//Hey guys this is our remote master branch
+
 		
 		//neler oluyor hayatta
+
+		//here is another conflict
+			
+
 
 
 	}
