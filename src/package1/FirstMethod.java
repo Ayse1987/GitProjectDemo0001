@@ -1,9 +1,10 @@
-package ayse;
+package package1;
 
-public class deneme {
+public class FirstMethod {
 
 	public static void main(String[] args) {
 		System.out.println("Ayse");
+		//ayse local changes
 
 	}
 
