@@ -10,6 +10,8 @@ public class FirstMethod {
 		//I will cay remote masret
 
 		//Hey guys this is our remote master branch
+		
+		//neler oluyor hayatta
 
 
 	}
