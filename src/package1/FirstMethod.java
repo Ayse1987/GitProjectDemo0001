@@ -11,8 +11,13 @@ public class FirstMethod {
 		
 
 		//Hey guys this is our remote master branch
+
+		
+		//neler oluyor hayatta
+
 		//here is another conflict
 			
+
 
 
 	}
