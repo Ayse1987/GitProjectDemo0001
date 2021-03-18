@@ -16,9 +16,14 @@ public class FirstMethod {
 		//neler oluyor hayatta
 
 		//here is another conflict
+
 			//Java is Easy
 		String s1 = "Java is easy";
 		
+        String str="sibel";
+		
+		System.out.println("ali gel");	
+
 
 
 
