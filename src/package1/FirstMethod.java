@@ -17,6 +17,8 @@ public class FirstMethod {
 
 		//here is another conflict
 			//Java is Easy
+		String s1 = "Java is easy";
+		
 
 
 
