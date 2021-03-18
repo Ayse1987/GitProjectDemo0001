@@ -17,7 +17,8 @@ public class FirstMethod {
 
 		//here is another conflict
 		String str="sibel";
-			
+		
+		System.out.println("ali gel");	
 
 
 
