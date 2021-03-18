@@ -16,6 +16,7 @@ public class FirstMethod {
 		//neler oluyor hayatta
 
 		//here is another conflict
+		String str="sibel";
 			
 
 
