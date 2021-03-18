@@ -24,7 +24,7 @@ public class FirstMethod {
 		
 		System.out.println("ali gel");	
 
-
+            System.out.println("Okay");	
 
 
 	}
