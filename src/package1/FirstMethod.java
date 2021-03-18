@@ -16,7 +16,7 @@ public class FirstMethod {
 		//neler oluyor hayatta
 
 		//here is another conflict
-			
+			//Java is Easy
 
 
 
